@@ -25,7 +25,7 @@ $('<h3 />', {
 }).appendTo($course);
 
 $('<img />',{
- scr: course.badge
+ src: course.badge
 }).appendTo($course);
 
 $('<a />', {
